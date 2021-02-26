@@ -11,10 +11,6 @@
 		{
 			"Name": "HairStrands",
 			"Enabled": true
-		},
-		{
-			"Name": "AlembicImporter",
-			"Enabled": false
 		}
 	]
 }
